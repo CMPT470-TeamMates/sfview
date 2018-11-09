@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM (Name -- Role)
+    Curtis Babnik -- HTML5 Specialist
+    Gavin Xu      -- Database Engineer
+    Heidi Tong    -- Spatial Graphics Technician
+    Jordan Siaw   -- Speech AI Guru
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, PHP, Node.js
+    Apache Server Configs, Modernizr, Normalize.css
